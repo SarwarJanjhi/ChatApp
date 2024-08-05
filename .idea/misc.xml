@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable-v24/buttonbackground.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable-v24/newbackground.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable-v24/nightbuttonbackground.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable-v24/nightnewbackground.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable-v24/nightround_search_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/backarrow.xml" value="0.16018518518518518" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/bg_oval_1.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/card_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/email.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/icon_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/message_box_background.xml" value="0.1125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/message_recieve_background.xml" value="0.1125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/message_sent_background.xml" value="0.1125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/night_phone1.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/night_videocall.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/nightemail.xml" value="0.1125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/nightpass.xml" value="0.1125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/nightperson.xml" value="0.1125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/pass.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/person.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/phone1.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/round_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/round_button.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/round_search_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/search_icon.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/send.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/square_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/drawable/videocall.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout-night/activity_chat.xml" value="0.25" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout-night/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout-night/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout-night/activity_signup.xml" value="0.22" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout-night/recieve_message.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout-night/sent_message.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout-night/user.xml" value="0.18" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout-notnight/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout-notnight/user.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout/activity_design.xml" value="0.33" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout/chat_interface.xml" value="0.33" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout/custom_dialogue_box.xml" value="0.24253347064881564" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout/menue_logout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout/recieve_message.xml" value="0.33" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout/sent_message.xml" value="0.25" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout/tajarbo_ui.xml" value="0.33" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/layout/user.xml" value="0.25" />
+        <entry key="..\:/Users/Sarwar/AndroidStudioProjects/MessengerMy/app/src/main/res/menu/menu_logout.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:id="@+id/linearlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="@color/white"
+            android:orientation="horizontal"
+            android:padding="@dimen/_5sdp">
+
+            <Button
+                android:id="@+id/btn_backout"
+                android:layout_width="@dimen/_20sdp"
+                android:layout_height="@dimen/_20sdp"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:background="@drawable/backarrow"
+                android:backgroundTint="@color/black" />
+
+            <ImageView
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_marginStart="@dimen/_15sdp"
+                android:background="@drawable/round_background"
+                android:src="@drawable/profilepic" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/Username"
+                    android:layout_width="@dimen/_100sdp"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="@dimen/_8sdp"
+                    android:padding="@dimen/_5sdp"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:text="Username"
+                    android:textColor="#000E08"
+                    android:textSize="@dimen/_15sdp"
+                    android:textStyle="bold" />
+
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Active now "
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:textSize="@dimen/_10sdp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:layout_width="@dimen/_24sdp"
+                android:layout_height="@dimen/_24sdp"
+                android:src="@drawable/night_phone1"
+                android:background="@drawable/icon_background"
+                android:layout_marginTop="@dimen/_13sdp"
+                android:layout_marginStart="@dimen/_30sdp"/>
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:layout_width="@dimen/_24sdp"
+                android:layout_height="@dimen/_24sdp"
+                android:src="@drawable/night_videocall"
+                android:background="@drawable/icon_background"
+                android:layout_marginTop="@dimen/_13sdp"
+                android:layout_marginStart="@dimen/_20sdp"/>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_below="@id/linearlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/chatRecyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_40sdp"
+                android:background="@color/white"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+        </LinearLayout>
+
+
+        <EditText
+            android:id="@+id/Message_box"
+            android:layout_width="@dimen/_230sdp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="@dimen/_15sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:background="@drawable/message_box_background"
+            android:hint="Type your message here! "
+            android:padding="@dimen/_5sdp"
+            android:paddingStart="@dimen/_15sdp"
+            android:paddingEnd="@dimen/_30sdp"
+            android:textColor="@color/light_black"
+            android:textSize="@dimen/_15sdp" />
+
+
+        <ImageView
+
+            android:id="@+id/Send_message_btn"
+            android:layout_width="@dimen/_35sdp"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="@dimen/_260sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:background="@drawable/round_button"
+            android:paddingStart="@dimen/_10sdp"
+            android:src="@drawable/send">
+
+        </ImageView>
+
+    </RelativeLayout>
+
+
+</LinearLayout>
